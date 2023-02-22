@@ -12,5 +12,4 @@ frm.addEventListener("submit", (e) => {
     resp2.innerText = `Leve 2 por apenas R$ ${promocao.toFixed(2)}`
 
     e.preventDefault()
-
 })
